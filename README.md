@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning UI/UX.
 - 💞️ I’m looking to collaborate with Web projects.
 - 📫 How to reach me .. By my youtube [channel](https://www.youtube.com/@prathmesh_pol_2004_).
-- 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
+- 📝 I write CTF [Blog](https://naikpratham.blogspot.com/) and articles on [Medium](https://mdamiruddin.medium.com).
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
  
