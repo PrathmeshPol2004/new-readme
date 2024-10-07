@@ -15,7 +15,7 @@
 
 ## <picture>
 <div class="tenor-gif-embed" data-postid="14625441" data-share-method="host" data-aspect-ratio="1.3913" data-width="100%"><a href="https://tenor.com/view/shintaro-kisaragi-anime-boy-computer-bored-kagerou-project-gif-14625441">Shintaro Kisaragi Anime Boy GIF</a>from <a href="https://tenor.com/search/shintaro+kisaragi-gifs">Shintaro Kisaragi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> **About me**
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+<picture> <img align="right" src="https://giphy.com/embed/1yyWNyyjNIpp4kd98E"></picture>
 
 <br>
 
